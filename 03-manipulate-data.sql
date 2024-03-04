@@ -8,14 +8,14 @@ INSERT INTO events (
 VALUES (
         'A first event',
         '2020-02-29 14:00:00',
-        'This is the description of the first event.',
+        'This is the description for the first event.',
         20,
         18
     ),
     (
         'A second event',
         '2020-04-29 07:15:00',
-        'This is the description of the second event.',
+        'This is the description for the second event.',
         20,
         21
     );
