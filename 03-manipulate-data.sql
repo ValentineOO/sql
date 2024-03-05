@@ -23,3 +23,6 @@ UPDATE events
 SET min_age = 16,
     description = 'This is the description for the first event.'
 WHERE id = 2;
+
+DELETE FROM events
+WHERE id = 1;
